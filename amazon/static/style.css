@@ -1,0 +1,7 @@
+body {
+    background-image: url("R.jpg");
+    background-size: cover;   /* Ensures the background covers the whole viewport */
+    background-position: center center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+  }
+  
